@@ -1,0 +1,10 @@
+version=1.15.0
+ok=5
+ko=1
+ignored=0
+okFiles="maven-dependency-analyzer-1.15.0.jar maven-dependency-analyzer-1.15.0-source-release.zip maven-dependency-analyzer-1.15.0-sources.jar maven-dependency-analyzer-1.15.0-cyclonedx.xml maven-dependency-analyzer-1.15.0-cyclonedx.json"
+koFiles="maven-dependency-analyzer-1.15.0.pom"
+ignoredFiles=""
+reference_java_version="21 (from MANIFEST.MF Build-Jdk-Spec)"
+reference_os_name="Unix (from pom.properties newline)"
+# diffoscope target/reference/org.apache.maven.shared/maven-dependency-analyzer-1.15.0.pom pom.xml
