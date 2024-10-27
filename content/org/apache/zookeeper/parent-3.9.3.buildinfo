@@ -131,8 +131,8 @@ outputs.5.0.checksums.sha512=dba51f815437350bb3519efaef746540da13e3558779b9b90d0
 
 outputs.5.1.groupId=org.apache.zookeeper
 outputs.5.1.filename=zookeeper-it-3.9.3.jar
-outputs.5.1.length=120511
-outputs.5.1.checksums.sha512=98f6107cd0d269ca19ae05b1148294d7036ecf15ec294e38725a19636affb105b75481501a2670c73f2efa4352abf1f6a4f2d6322ea274098c6e5237a073b348
+outputs.5.1.length=120516
+outputs.5.1.checksums.sha512=7e188198fe0cf4fd8b5a872652d81ea99cca001f6e2e935a65bc2e47d4d6d255feca085675437f4346249a998ad07907aef1720b2d045e9ba92636e55ccf52e9
 
 outputs.5.2.groupId=org.apache.zookeeper
 outputs.5.2.filename=zookeeper-it-3.9.3-sources.jar
