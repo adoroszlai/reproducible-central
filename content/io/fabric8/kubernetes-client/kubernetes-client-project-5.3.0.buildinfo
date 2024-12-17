@@ -101,8 +101,8 @@ outputs.5.0.checksums.sha512=e528ef7a926a5732d08fe55af479addc7c56617d28ed65dd736
 
 outputs.5.1.groupId=io.fabric8
 outputs.5.1.filename=kubernetes-model-core-5.3.0.jar
-outputs.5.1.length=4015639
-outputs.5.1.checksums.sha512=175fd8a13e0a95cdfb14ee1a42041586c6565c8fbd5afcd8a2974d94d9de3f9e09f6df8e8b7c7d92c50fedff930b0d0fe9bfb8274235792256ec35f8fafada10
+outputs.5.1.length=4013775
+outputs.5.1.checksums.sha512=702ac991f98b283548319b84f4f83b47c8f91c9bcd99c8564033a04cc319368ec2d4aac8bd827150048a1334a5cb60d43cf39f9acf5049af2a506800c14d1b40
 
 outputs.5.2.groupId=io.fabric8
 outputs.5.2.filename=kubernetes-model-core-5.3.0-schema.json
@@ -123,8 +123,8 @@ outputs.6.0.checksums.sha512=5d32b37fa9ad8946d0b361f0ed2bfe6c3e1180a7ffab7a4731a
 
 outputs.6.1.groupId=io.fabric8
 outputs.6.1.filename=kubernetes-model-rbac-5.3.0.jar
-outputs.6.1.length=173589
-outputs.6.1.checksums.sha512=c6446f5798aaeac5df203960c68e3a20569c374b9b33252824964dacb90e2cb86958332b84e270587a7339e444d0ef45e51d552977c4699e3dd1acdba092d404
+outputs.6.1.length=173628
+outputs.6.1.checksums.sha512=80e8f1f5df752b7a4cf10933bf32e6bf814c410a6a6a05f22ab617a763be97e010a56a987e726685288bca33469466340d1f35eb2b3342cde267c6969e5bf249
 
 outputs.6.2.groupId=io.fabric8
 outputs.6.2.filename=kubernetes-model-rbac-5.3.0-schema.json
@@ -145,8 +145,8 @@ outputs.7.0.checksums.sha512=ac51f13cce584b0135070e482963e7394e3bb8bcf12f552a4ea
 
 outputs.7.1.groupId=io.fabric8
 outputs.7.1.filename=kubernetes-model-admissionregistration-5.3.0.jar
-outputs.7.1.length=771234
-outputs.7.1.checksums.sha512=33355a452522cdf05ad498ef930d7b153f89a7dfbf9b576a43c786823a368c5ca5a48e5d0b4267e3fb46ae63e642588e3d9ffddbbda65435445e8581fde5dae3
+outputs.7.1.length=771074
+outputs.7.1.checksums.sha512=7b8ee00cb2c82b92592bed4bb3c6fbb8bfcf49c0eea3ee2c219f9ca82234ec7fc88ef68cfda10d05ba6759c4ce9512e9cb6155d09651e43b6b64c8ea9d4af124
 
 outputs.7.2.groupId=io.fabric8
 outputs.7.2.filename=kubernetes-model-admissionregistration-5.3.0-schema.json
@@ -167,8 +167,8 @@ outputs.8.0.checksums.sha512=0cf8e4e1d586716e3f868168268aab9d21aee1ce983b1f0587e
 
 outputs.8.1.groupId=io.fabric8
 outputs.8.1.filename=kubernetes-model-apps-5.3.0.jar
-outputs.8.1.length=414895
-outputs.8.1.checksums.sha512=8067bb60fd2075734047d985240e43a3781c9ed1ff7f90be608ea6f42d0f8d4440b90808f96f23a5bc7d5da3589c7b2ae825ccd8ccbab1ae795e588e9f2baf57
+outputs.8.1.length=414881
+outputs.8.1.checksums.sha512=b795aea444d368dfd2295c55c9f521c3fe470eba338a0c55bff7c7f18fe7a5f42db9bddf1d1def2c0b425c9a55a1f9d1ce764cdb621494ce8ef7838c59b81885
 
 outputs.8.2.groupId=io.fabric8
 outputs.8.2.filename=kubernetes-model-apps-5.3.0-schema.json
@@ -189,8 +189,8 @@ outputs.9.0.checksums.sha512=54e955eacd46e871ab16df384e9de596dff7b2215fc7080c210
 
 outputs.9.1.groupId=io.fabric8
 outputs.9.1.filename=kubernetes-model-autoscaling-5.3.0.jar
-outputs.9.1.length=623242
-outputs.9.1.checksums.sha512=ed497dab66970d1be3945cb8dac78223f986f840e2fb238fae2e4b532293168884836f3ea48ab7830dff5cc6d582ae3c5de71dd92c65c2d46bd1671d8e1cc7e8
+outputs.9.1.length=623239
+outputs.9.1.checksums.sha512=2a003674423543a5025657d47ee30b80153eeb61015d0dc23d04d0d3a35a6e13f8cc00c668de9fb27fbee478cfe37b6ac08e85b28fff988c6f92a37069e996e8
 
 outputs.9.2.groupId=io.fabric8
 outputs.9.2.filename=kubernetes-model-autoscaling-5.3.0-schema.json
@@ -211,8 +211,8 @@ outputs.10.0.checksums.sha512=ac648a4f1ffa492e7975f7db9af0c583656234f9fba37cd02b
 
 outputs.10.1.groupId=io.fabric8
 outputs.10.1.filename=kubernetes-model-apiextensions-5.3.0.jar
-outputs.10.1.length=628156
-outputs.10.1.checksums.sha512=f25ec3fe7804b1d59bab95f3540f1a26bbe51a6c5f05ff3609c765040817bc134a75c280d7ae95b30cd299f067c4fe5bec4fe110d0dae657e671468ce8a59fc2
+outputs.10.1.length=628026
+outputs.10.1.checksums.sha512=8c56a49f8e747706787761f1fb839443861142c479838acbe724c3383eda0a3ad60b20eae798394e5df9fee68698a4839e095e3a8ae07cb318e93dda75735f03
 
 outputs.10.2.groupId=io.fabric8
 outputs.10.2.filename=kubernetes-model-apiextensions-5.3.0-schema.json
@@ -233,8 +233,8 @@ outputs.11.0.checksums.sha512=3d8304f566ad5f448b9f7be82d529deee3a701243d7845b763
 
 outputs.11.1.groupId=io.fabric8
 outputs.11.1.filename=kubernetes-model-batch-5.3.0.jar
-outputs.11.1.length=160145
-outputs.11.1.checksums.sha512=c28f533a9c10263632e8f23662929b6bb565098c01fbd4e24c767bdc12d0b8effe5ea0fbf500c2118c90b34d073499b96ad3df667fd24873f914d74bd4e5544d
+outputs.11.1.length=160175
+outputs.11.1.checksums.sha512=411675035089c5470cefc50ee40878ead7be44ca991271e188e4436817fa6febb92d3e5ae3c2ae169e4de3baf6b2f4f8712d1caf2267cf45a3280205d814965a
 
 outputs.11.2.groupId=io.fabric8
 outputs.11.2.filename=kubernetes-model-batch-5.3.0-schema.json
@@ -255,8 +255,8 @@ outputs.12.0.checksums.sha512=27963ae71503cec1f4bea3cd15c6bbffc999d0af2b2ff09f52
 
 outputs.12.1.groupId=io.fabric8
 outputs.12.1.filename=kubernetes-model-certificates-5.3.0.jar
-outputs.12.1.length=146722
-outputs.12.1.checksums.sha512=443a27c8114ffab9314d79cec0738e60b5008751d7fa650688e3ba02b414417096fc19cefabf48c4a92b5dbb38f652a580291f112bdbcd61fa47720aa3ab2c9d
+outputs.12.1.length=146724
+outputs.12.1.checksums.sha512=e06eb152d6ce1ae051fd8c50d9bc5f6b53552f184a91630046888626bc798a6ffbd9af054bf755b47343e2933a7e47e9cb9b1dc7e4d1ea5a4ad94ef42248bdfe
 
 outputs.12.2.groupId=io.fabric8
 outputs.12.2.filename=kubernetes-model-certificates-5.3.0-schema.json
@@ -277,8 +277,8 @@ outputs.13.0.checksums.sha512=233c6a828560ab50c7deac58cf186129063d539d15ab9cefff
 
 outputs.13.1.groupId=io.fabric8
 outputs.13.1.filename=kubernetes-model-coordination-5.3.0.jar
-outputs.13.1.length=48810
-outputs.13.1.checksums.sha512=942d94b2ec85c7f5044ce8c860b181ef75b18d3ae98edc3d8c33fccc95c648c330bbe5dcea8731f5e5fab68f730e6c600b494fc45e562d8c3bcb5b2f412266dd
+outputs.13.1.length=48801
+outputs.13.1.checksums.sha512=fea5c6e4542a44fa2873a799e99121a1d7792fa4f19352c6727a5205986d21db6ecd266571ef0b3d9eea8f5806605c465bae7001ae056eeb699b28a1a213c109
 
 outputs.13.2.groupId=io.fabric8
 outputs.13.2.filename=kubernetes-model-coordination-5.3.0-schema.json
@@ -299,8 +299,8 @@ outputs.14.0.checksums.sha512=623aadaa6d7aa65f7d7d9f5e39f942e2b7932712cd6f1a8cfd
 
 outputs.14.1.groupId=io.fabric8
 outputs.14.1.filename=kubernetes-model-discovery-5.3.0.jar
-outputs.14.1.length=80685
-outputs.14.1.checksums.sha512=5d43f3b506c866a96868a040a23837e2e87c754d8ffc36bd9486e9429c1c6245e037b0172a952b6eab05b3621c4b8f56eac283b90eef194d0227a44b688651f3
+outputs.14.1.length=80681
+outputs.14.1.checksums.sha512=77e89e20497010212327bd7b4afa31c589519db3f4a03977ba22d26a74449c9f73bb6d8cf079b50234647dfea54d152849909d795cee7ca8f0bc4265c674c494
 
 outputs.14.2.groupId=io.fabric8
 outputs.14.2.filename=kubernetes-model-discovery-5.3.0-schema.json
@@ -321,8 +321,8 @@ outputs.15.0.checksums.sha512=edb25db4d0b3a87fffe7500034af979e752cb8038d033b49e5
 
 outputs.15.1.groupId=io.fabric8
 outputs.15.1.filename=kubernetes-model-events-5.3.0.jar
-outputs.15.1.length=104069
-outputs.15.1.checksums.sha512=12539e5ac40e36731fa5afada66d9e4a88c40a8bffdffea57dcc6a2d724190c76631388fe06cea5b10f5f67422fa756bb12d20b8b0b00020ed1b77f098a724ce
+outputs.15.1.length=104086
+outputs.15.1.checksums.sha512=90dfcfcfc2c8eeb59483bc9f18619b89796247053529fe83fd060bfb794f3408188b2927b28bd39954670872cf0e8beed76cc322927fc4261400411f2d21bf8c
 
 outputs.15.2.groupId=io.fabric8
 outputs.15.2.filename=kubernetes-model-events-5.3.0-schema.json
@@ -343,8 +343,8 @@ outputs.16.0.checksums.sha512=02ea840d3a811ef028a8c816fe2b9ee93a01adf95fa8c38287
 
 outputs.16.1.groupId=io.fabric8
 outputs.16.1.filename=kubernetes-model-extensions-5.3.0.jar
-outputs.16.1.length=510704
-outputs.16.1.checksums.sha512=3b692ee580e27dc2e4423baac194c69b2d86e109d58dafa7ea0fa03e27f36485aa7377207ab6b530fc20cd5a044c012c88d4be69d47f7bfc8f4bc32cd3b8aa0b
+outputs.16.1.length=510696
+outputs.16.1.checksums.sha512=bf0897fd82139056abb05b1e1696120bdc628660939b475ba5718a91bb56ffd93c00303c29136fde19699e6d51cdfbe6a2a4aaf14843524b7981955a78dd45ea
 
 outputs.16.2.groupId=io.fabric8
 outputs.16.2.filename=kubernetes-model-extensions-5.3.0-schema.json
@@ -365,8 +365,8 @@ outputs.17.0.checksums.sha512=5fadb4cb455eee5f42a07e2d2f4eb2487a8d6c51f66c2db176
 
 outputs.17.1.groupId=io.fabric8
 outputs.17.1.filename=kubernetes-model-networking-5.3.0.jar
-outputs.17.1.length=418001
-outputs.17.1.checksums.sha512=43cf0262acf8f7441715c6a3081ab55157de28a0863a595df035e9cf56e13550b5085adf18a45126a81c53ec208264a20d1164e13a7609176da4c4974e3cd38f
+outputs.17.1.length=417991
+outputs.17.1.checksums.sha512=9e352a15ad19f0feb01819e0e699a95f396eb3c02229f5bbb0b938c4263cdd11c2dae6a6b6ef4ec1b0b73b170d590145e75d6cb528468af77d23468eef7a72fa
 
 outputs.17.2.groupId=io.fabric8
 outputs.17.2.filename=kubernetes-model-networking-5.3.0-schema.json
@@ -387,8 +387,8 @@ outputs.18.0.checksums.sha512=18aac0b010a4f501165a70eaa8ac64582f825413cf9bf8878f
 
 outputs.18.1.groupId=io.fabric8
 outputs.18.1.filename=kubernetes-model-metrics-5.3.0.jar
-outputs.18.1.length=77870
-outputs.18.1.checksums.sha512=27b66f8398dd1528b6caadd3a2303b93aab22fdcb4172099e7cd43441c1cbb0211ffd2892a89a63fb56342f69e5e73dc67cbb450e30fb398e2d699ffd166195e
+outputs.18.1.length=77839
+outputs.18.1.checksums.sha512=707a75c18a9465d5f48bb54546234a6bc90c9f05973ecf647f34d29d2235b64a5d3065742a2fe2dd5642c473a7a5e0f156aa45cdf24fd069b5844204c47847fb
 
 outputs.18.2.groupId=io.fabric8
 outputs.18.2.filename=kubernetes-model-metrics-5.3.0-schema.json
@@ -409,8 +409,8 @@ outputs.19.0.checksums.sha512=9f0c3fa2f6f2f95866a9f072b5ea11ff0fcd1b5f5e9699adf0
 
 outputs.19.1.groupId=io.fabric8
 outputs.19.1.filename=kubernetes-model-policy-5.3.0.jar
-outputs.19.1.length=260296
-outputs.19.1.checksums.sha512=3abde97cb1f6c63345bdcbc1ddbb171f3718fee40de341e068e2b684c774d2c783b95db6dc7329202ea9f52dbbe4c673f4f371470b0b28cbff4006b2bc47e6b9
+outputs.19.1.length=260311
+outputs.19.1.checksums.sha512=b6cbbcc8ec437443f19d97003f501c85a553f660f4d154bdea170ec9f53a34abb7e7a99d54bee7e753e6d7621b1a05a28083c747facdfe013a35f5a6b648e179
 
 outputs.19.2.groupId=io.fabric8
 outputs.19.2.filename=kubernetes-model-policy-5.3.0-schema.json
@@ -431,8 +431,8 @@ outputs.20.0.checksums.sha512=f9b836bf8301b9814fd3bc0958a03bb452d4b06b4108674000
 
 outputs.20.1.groupId=io.fabric8
 outputs.20.1.filename=kubernetes-model-scheduling-5.3.0.jar
-outputs.20.1.length=66116
-outputs.20.1.checksums.sha512=67d14fcbe9183533a6aad6af43ed16152a6914ce021340ab6f59d3f807efde9fc200e7e01bb4092a42b7b972b651bf13a7f1ac811f4342f7c8650b522ff537b5
+outputs.20.1.length=66131
+outputs.20.1.checksums.sha512=ff4e9fcb6b29acc9548527065526a659749340ff5686bcc863e5581b108b2f9cff00dee8f9d39df9e9bff660e0a2a4b14b8acd45ce5d427ad155cd4a2e33089c
 
 outputs.20.2.groupId=io.fabric8
 outputs.20.2.filename=kubernetes-model-scheduling-5.3.0-schema.json
@@ -453,8 +453,8 @@ outputs.21.0.checksums.sha512=6ad340deba240a3c90df61034b66cc6075e51dd1de0716fdad
 
 outputs.21.1.groupId=io.fabric8
 outputs.21.1.filename=kubernetes-model-storageclass-5.3.0.jar
-outputs.21.1.length=226062
-outputs.21.1.checksums.sha512=0d6e50b9a53c835dad38d3d1a01afdd211c6b1cb84b7616de7d266369d420bbff1407f888a4a166c9173a161b1712e2e40fb06a46b3f05c4c4a170d9d9eb7c3b
+outputs.21.1.length=226070
+outputs.21.1.checksums.sha512=0753c2fa822c6c3d543a379b92d2e4430818952823220948ac68829cb63628f9e26e336c2f45b5f2dc3d92f60ad17f68360baeb1e61b0ae93c56d1914c392632
 
 outputs.21.2.groupId=io.fabric8
 outputs.21.2.filename=kubernetes-model-storageclass-5.3.0-schema.json
@@ -475,8 +475,8 @@ outputs.22.0.checksums.sha512=4457411b99e242bd621818aa7fbae846fb7631837eb81c0fae
 
 outputs.22.1.groupId=io.fabric8
 outputs.22.1.filename=openshift-model-5.3.0.jar
-outputs.22.1.length=4444660
-outputs.22.1.checksums.sha512=25ec00281dc4e1133eb1855be6e5c4ae7815d4a1e61afba03266bd444c3bfaf6b17a79c58e2e89947f5251e28120cb596dabad5cd0caf6a082bb8318afa0f328
+outputs.22.1.length=4442611
+outputs.22.1.checksums.sha512=d02d158334252435c7de4966838cb7f0ce5c98e3f8bb633ca703273af8086d19a8722baf2c63fa81eaee07c2857cf2b4c837c90e6be6175ff9f0fb6808402280
 
 outputs.22.2.groupId=io.fabric8
 outputs.22.2.filename=openshift-model-5.3.0-schema.json
@@ -509,8 +509,8 @@ outputs.24.0.checksums.sha512=27d90803abd0e5aae08c0fec1c01cb9d1f947cb2b03064c418
 
 outputs.24.1.groupId=io.fabric8
 outputs.24.1.filename=kubernetes-model-node-5.3.0.jar
-outputs.24.1.length=153745
-outputs.24.1.checksums.sha512=cd60e3097b874add2b7b75e902ae637fa10038f799385982dd0cf9d193d35d81be4a233121f5ed45772cf99d2976ab9859d43cb273e0dbf9b805147f518cf165
+outputs.24.1.length=153760
+outputs.24.1.checksums.sha512=a349429c4773310bb17e48135dd7d392ddf74aedb36a13847efa909a602b525531861c99d2ee998d7ba91f62f05ce9654864c001df48aade28e64f902c845381
 
 outputs.24.2.groupId=io.fabric8
 outputs.24.2.filename=kubernetes-model-node-5.3.0-schema.json
@@ -531,8 +531,8 @@ outputs.25.0.checksums.sha512=5ead3cae8d6fb954fa7536960236b4898d60ca7831e2bc8b61
 
 outputs.25.1.groupId=io.fabric8
 outputs.25.1.filename=openshift-model-operator-5.3.0.jar
-outputs.25.1.length=2807382
-outputs.25.1.checksums.sha512=498cce94a9907600cf58d3fa97a51e767c7e8efb445503a6948612ae132f5a9391237846b19313838ddd9ff464dd044a2891abb4fdf97dbdca5de346c156bf3d
+outputs.25.1.length=2807305
+outputs.25.1.checksums.sha512=a4aeccf25b5010bae3b9d418cdb85d3cad2ca97c853d6915a782bb26b6601e9155a44242a8350f2c6d073319199e76ff88ee305a3672e2d62a41eb18e902d583
 
 outputs.25.2.groupId=io.fabric8
 outputs.25.2.filename=openshift-model-operator-5.3.0-schema.json
@@ -553,8 +553,8 @@ outputs.26.0.checksums.sha512=264388ee6030c735435e8e606e6369e9f3c00e1af3db9af981
 
 outputs.26.1.groupId=io.fabric8
 outputs.26.1.filename=openshift-model-operatorhub-5.3.0.jar
-outputs.26.1.length=844390
-outputs.26.1.checksums.sha512=f7742ffe529d8ca7798cea9751db37f1d1391b9fc28d062cd055a0a534c3713c043b6922accb2f310af8b2dc8da2c8c53e650f46cb1339c2772af8159ba77c79
+outputs.26.1.length=844307
+outputs.26.1.checksums.sha512=e4959363b6638ce07a11a7675b2fcd36e0a4467bb16b6d0aa57b59e316b3ed0239f4cf98d6247e43e15d12bbd1a8ea9e784665783975e34c04ff363bf0e65bda
 
 outputs.26.2.groupId=io.fabric8
 outputs.26.2.filename=openshift-model-operatorhub-5.3.0-schema.json
@@ -575,8 +575,8 @@ outputs.27.0.checksums.sha512=224d8f52a0dc34e45ea697454e36903d5fb01115716e3e408a
 
 outputs.27.1.groupId=io.fabric8
 outputs.27.1.filename=openshift-model-monitoring-5.3.0.jar
-outputs.27.1.length=730416
-outputs.27.1.checksums.sha512=a2c4e60eb0502f11ae3220d3ab430642e8e16f9b175d701c998079005468eac225d7070653e45280df9900855acea30d285b80dded1241322af754fb4074276a
+outputs.27.1.length=730319
+outputs.27.1.checksums.sha512=43c0587d5a1b7b9015a0e840258543e78b03c68685d3a8fb2a3d7a789c3db40b4dbbe7e85eddf4c2904127241fb2cfa5424f78d81ab52f1e1ed515acf3ac5551
 
 outputs.27.2.groupId=io.fabric8
 outputs.27.2.filename=openshift-model-monitoring-5.3.0-schema.json
@@ -597,8 +597,8 @@ outputs.28.0.checksums.sha512=16a157b395d14623daac673c6bdb5288c23865a93e7d278e8d
 
 outputs.28.1.groupId=io.fabric8
 outputs.28.1.filename=openshift-model-console-5.3.0.jar
-outputs.28.1.length=234524
-outputs.28.1.checksums.sha512=63ba46560b2f6ce7d71623578bbb51ee0084e4e3e0b6f1073258cfec2daf1f13208e2043f39e46d550287be773a41f73ce6bc7cab961096ef9db882a3e2a79a1
+outputs.28.1.length=234577
+outputs.28.1.checksums.sha512=3ae41ba38846679dee69dd869dc89f4730baf5923fe754ed58abb2b8a705cfbc46896a31378179b18fbea1f403658430e0ccf6d5739ef238f41d7ea9db33d875
 
 outputs.28.2.groupId=io.fabric8
 outputs.28.2.filename=openshift-model-console-5.3.0-schema.json
@@ -619,8 +619,8 @@ outputs.29.0.checksums.sha512=de22e2f1d90442d20878bf5b60c5728cb9f494e37895919a68
 
 outputs.29.1.groupId=io.fabric8
 outputs.29.1.filename=kubernetes-client-5.3.0.jar
-outputs.29.1.length=1087433
-outputs.29.1.checksums.sha512=e34760f333d1e18c74b69a0e0085bff513ccee7230dc8352f918d1e889af192e0b37a2cee20b05e262052139cd676dd94425e82179aa0e80eab279f31bb080e9
+outputs.29.1.length=1087445
+outputs.29.1.checksums.sha512=7c3bd6211ecd9dc2a533435ac59f9436c7d05c240a036ea140e61b5f71267530722d18c8d3b88114f9bb30b9e4349ad47c7e4b5faa988a8fd0437c2f8d6533ce
 
 outputs.29.2.groupId=io.fabric8
 outputs.29.2.filename=kubernetes-client-5.3.0-tests.jar
@@ -646,8 +646,8 @@ outputs.30.0.checksums.sha512=9c2720e59b0099b3b358e56f89f313ec52c05df739ee662a60
 
 outputs.30.1.groupId=io.fabric8
 outputs.30.1.filename=kubernetes-server-mock-5.3.0.jar
-outputs.30.1.length=37135
-outputs.30.1.checksums.sha512=2a57c48c780c46a55f9983dddcd39f6c3a9c08b2dcbbcc948bfa86b14da5ed578dca8a55ad60ad8a116c76f97ce50a1b3a9b6e70ccd3dd002ec71f082cef6dd2
+outputs.30.1.length=37134
+outputs.30.1.checksums.sha512=c91e29672a9877059ecbfd87b120549b533c4e2f5ab54fe0153ceb36bf21abe9bea1f0e537f390858910ebd81e12da6137601539f77836bc07d6f6a5c789f133
 
 outputs.30.2.groupId=io.fabric8
 outputs.30.2.filename=kubernetes-server-mock-5.3.0-sources.jar
@@ -663,8 +663,8 @@ outputs.31.0.checksums.sha512=ddabfcdb1d8390b191b5216520035d9a13307b22874cfc576e
 
 outputs.31.1.groupId=io.fabric8
 outputs.31.1.filename=openshift-client-5.3.0.jar
-outputs.31.1.length=464990
-outputs.31.1.checksums.sha512=1dc86393b8a8ec3b5c48b2b518b9099d50b8aaccb58ff80c3002cd8c902a90339d51a9e73274ad7241b849d224776229a73eeab042f065e66a4a474f935fca08
+outputs.31.1.length=464997
+outputs.31.1.checksums.sha512=ca9eb31515e04bf653a3a817fe8ce64f79d223ed1e91cc13e5d7dff7ec58d946b46e25a56818388d721a95e32cc725c3632e38474a062dcef6cc2fbf083f338d
 
 outputs.31.2.groupId=io.fabric8
 outputs.31.2.filename=openshift-client-5.3.0-tests.jar
@@ -1291,7 +1291,7 @@ outputs.72.0.checksums.sha512=6f7fe03b4975456426e851bddaadf77867de608b39f01d68a6
 outputs.72.1.groupId=io.fabric8
 outputs.72.1.filename=kubernetes-examples-5.3.0.jar
 outputs.72.1.length=267317
-outputs.72.1.checksums.sha512=1292145ab40e4170617bfaafb4f2de850a9e2290b313fe137cd7ea8e7b79649f15d2eb9db960ffefd02650b3ea820abe0938ee3373275655440cd88c41ad87ae
+outputs.72.1.checksums.sha512=2925e7bd710d5940cb4e8cfe8fe498326371bc985ef6eeb5a056d34f3942c43f7a53740958e3918738d97bfacea90e0187724973601bcaced5b831c37f13a6ad
 
 outputs.72.2.groupId=io.fabric8
 outputs.72.2.filename=kubernetes-examples-5.3.0-sources.jar
@@ -1344,7 +1344,7 @@ outputs.76.0.checksums.sha512=6caf2e6b666d1efc9a3558b6fe5449fe68a29acceab1f33e8d
 outputs.76.1.groupId=io.fabric8.kubernetes
 outputs.76.1.filename=kubernetes-karaf-itests-5.3.0.jar
 outputs.76.1.length=5450
-outputs.76.1.checksums.sha512=835296fb5cca57b697c96077e85d757a41ae19a589c2140cacec5940a8fb124e56d42a345068624cf9e1ecd07eea6b56402e3f2b7b09ba72822dd1a5d2d8181d
+outputs.76.1.checksums.sha512=b20a9fd2befd140fb65eb5da3449805cfe9e59e17230f47ec5289d04d891bc75914c866bab8b694fb89a913819589a222540ae6d144c93a6a3819da14e6e2ac8
 
 outputs.77.coordinates=io.fabric8:kubernetes-test
 
